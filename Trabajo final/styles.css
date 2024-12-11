@@ -21,7 +21,12 @@ body {
     background-size: cover;
     background-repeat: no-repeat;
 }
-
+.dgs
+{
+    background: linear-gradient(rgb(117, 117, 255), white) fixed;
+    background-size: cover;
+    background-repeat: no-repeat;
+}
 .btn-primary {
     background-color: #97D0F2;
     border: none;
